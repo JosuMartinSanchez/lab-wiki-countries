@@ -1,5 +1,14 @@
 .App {
+  
   text-align: center;
+  
+  
+}
+.countries{
+  display: flex;
+  flex-direction: row;
+  text-align: center;
+  justify-content: space-around;
 }
 
 .App-logo {
